@@ -6,6 +6,8 @@
  <a target="_blank" href="https://discusso-chat.herokuapp.com">Link to the App</a>
     ·
  <a target="_blank" href="https://www.youtube.com/watch?v=H88fwQiTvNE">Video Demo</a>
+   <a target="_blank" href="https://discusso-app.herokuapp.com">Sample Chat Engine API Demo</a>
+  
 </p>
     
 <!-- TABLE OF CONTENTS -->
