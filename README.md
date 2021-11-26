@@ -74,7 +74,7 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 
 
-![image](https://user-images.githubusercontent.com/74626927/143611016-5e7f053a-d311-46ae-a625-91691c952ce1.png)
+![image](https://ibb.co/Vp93fZC)
 
 
 <!-- INSTALLATIONS -->
