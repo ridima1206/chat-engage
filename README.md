@@ -57,9 +57,9 @@ Laptops, Desktops and Tablet PCs
 
 ### Built With
 
-**Front-end**     HTML, CSS, ReactJS, Ant-icons
-**Back-end**      NodeJS, Axios
-**Tools**         MongoDB
+**Front-end**     HTML, CSS, ReactJS, Ant-icons  
+**Back-end**      NodeJS, Axios  
+**Tools**         MongoDB  
 
 <!-- AGILE METHODOLOGY -->
 ## Agile Methodology
