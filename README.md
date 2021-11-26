@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">
 </h1>
 
-<p align="center">
+<p align="left">
  <a target="_blank" href="https://discusso-chat.herokuapp.com">Link to the App</a>
     ·
  <a target="_blank" href="https://www.youtube.com/watch?v=H88fwQiTvNE">Video Demo</a> 
