@@ -73,21 +73,22 @@ Agile is a development methodology adopted today in the software industry. Agile
 SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 
 
-
-![image](https://ibb.co/Vp93fZC)
-
-
-<!-- INSTALLATIONS -->
-
-
+### Login-Page
+<img src="images/login-page.JPG" alt="login-page" width="700"/>  
 
 ### Chat Window
 
 All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
 
-<img src="Images/New-Chat.png" alt="new chat" width="700"/>
 
+<img src="images/chat-feed.JPG" alt="chat-feed" width="700"/>  
 
+### DataBase
+ <img src="images/node-mongodb.JPG" alt="database" width="700"/>  
+  
+ ## SAMPLE LOGIN CREDENTIALS  
+ 
 
 ## Resources Used
-* [Firebase chat app - React JS, Firebase, Chat Engine](https://youtu.be/Bv9Js3QLOLY)
+* https://medium.com/swlh/node-js-creating-a-crud-api-with-node-js-15baca7985be#:~:text=%22start%22%3A%22node%20index.js%22%2C&text=After%20creating%20it%2C%20install%20all,mongoose%20%E2%80%94%20To%20connect%20with%20MongoDB.  
+* https://chatengine.io/
