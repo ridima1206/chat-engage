@@ -24,8 +24,7 @@
       <a href="#agile-methodology">Agile Methodology</a>
       <ul>
         <li><a href="#what-is-agile">What is Agile</a></li>
-        
-      </ul>
+       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -57,10 +56,10 @@
 Laptops, Desktops and Tablet PCs
 
 ### Built With
-### Chat Application: 
-* ![Front-end][HTML, CSS, ReactJS, Ant-icons]
-* ![Back-end][NodeJS, Axios]
-* ![Tools][MongoDB]
+
+**Front-end**     HTML, CSS, ReactJS, Ant-icons
+**Back-end**      NodeJS, Axios
+**Tools**         MongoDB
 
 <!-- AGILE METHODOLOGY -->
 ## Agile Methodology
