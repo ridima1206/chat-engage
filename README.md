@@ -83,10 +83,6 @@ SCRUM is a subset of Agile, a framework for developing software. SCRUM takes adv
 
 ### Chat Window
 
-After logging in, a blank chat window appears. Start a new chat by clicking on the + sign. A video call can be placed by clicking the 'Video Call' option in the navigation bar. Adjacent to it is the logout option.
-
-<img src="Images/Blank-Chat-Window.png" alt="blank chat window" width="700"/>
-
 All the users registered with the app can be added to your chat. Photo sharing, read receipts, formatting the text, and many other things are possible in the chat. The shared photos can be viewed in the right pane. The chat can be deleted by expanding the 'Options' menu in the right pane and clicking the 'Delete' option.
 
 <img src="Images/New-Chat.png" alt="new chat" width="700"/>
