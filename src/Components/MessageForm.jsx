@@ -35,7 +35,7 @@ const MessageForm = (props) => {
     <form className="message-form" onSubmit={handleSubmit}>
       <input
         className="message-input"
-        // placeholder="Send a message..."
+        placeholder="Send a message..."
         value={value}
         onChange={handleChange}     // To implement isTyping function
         onSubmit={handleSubmit}
