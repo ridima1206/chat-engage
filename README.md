@@ -86,7 +86,9 @@ All the users registered with the app can be added to your chat. Photo sharing, 
 ### DataBase
  <img src="images/node-mongodb.JPG" alt="database" width="700"/>  
   
- ## SAMPLE LOGIN CREDENTIALS  
+ ## SAMPLE LOGIN CREDENTIALS   
+ Username :  test123  
+ Password :  123  
  
 
 ## Resources Used
