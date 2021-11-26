@@ -72,16 +72,7 @@ Agile is a development methodology adopted today in the software industry. Agile
 
 SCRUM is a subset of Agile, a framework for developing software. SCRUM takes advantage of different techniques to achieve goals in Agile. SCRUM promotes an iterative model where the planning is performed on a very short term. The basic time working unit is the sprint. SCRUM teams always reason in sprints and their planning is limited to sprints.
 
-**Ideation:**
-         Brainstormed about various ideas and possible UI/UX experience
-         Developed a POC on React apps and MERN stack technology(MongoDB, NodeJS).
-**Implementation:**
-         Implemented chat feed and incorporated other features from react-chat-engine like - online statuses, image support, sound notifications and the ability to create                multiple rooms
-         Developed my own API for chat application functionalities like storing messages.
-         Setup my own Database using MongoDB and connecting it with my chat app.
-**Deployment:**
-         Learned about Git and GitHub repository and its features.
-         Deployed my project on cloud platform Heroku.
+
 
 ![image](https://user-images.githubusercontent.com/74626927/143611016-5e7f053a-d311-46ae-a625-91691c952ce1.png)
 
